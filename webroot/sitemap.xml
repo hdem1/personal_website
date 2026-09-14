@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://henrydemarest.me/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/resume/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/education/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/engineering/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/computer-science/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/about/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/resume/HenryDemarestResume.pdf</loc>
+  <lastmod>2022-09-30T17:42:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/computer-science/cubesat-detumbling-algorithm/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/engineering/injector-design/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/engineering/catapult/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/engineering/pintle-injector-water-testing/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/engineering/first-robotics-competition/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/computer-science/genetic-algorithm/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/computer-science/machine-learning-research/</loc>
+  <lastmod>2022-10-12T02:35:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://henrydemarest.me/computer-science/machine-learning-research/Research%20Paper%20-%20Henry%20Demarest.pdf</loc>
+  <lastmod>2022-10-02T15:32:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
