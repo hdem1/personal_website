@@ -15,8 +15,9 @@ This script will pull the latest version of the Resume repository and then repla
   - [X] Change basic content
   - [ ] Add links
 - [ ] Add a contact me page
-- [ ] Update classes
+- [X] Update classes
 - [X] Write script to autoload resume
+- [ ] Write script to publish site
 - [ ] Write resume/Internship experiences
   - [ ] Relativity
   - [ ] Nanoprobe Group Research
@@ -25,4 +26,4 @@ This script will pull the latest version of the Resume repository and then repla
 - [ ] Other Project Pages:
   - [ ] Identify other projects to include
 - [ ] Add a tutoring/teaching section?
-- [ ] About Me Page
+- [ ] Update About Me Page
