@@ -11,11 +11,11 @@
             <div class="col-lg-6">
             <p class="text-large text-center" >
 
-<p>I’m currently a student at Yale University majoring in Mechanical Engineering and Computer Science. I love to take on hard problems, work with others, and create awesome projects. Over the past few years, I have worked on <a href="/internship/astrobotic/">lunar landers</a> 🌙, <a href="/engineering/Project-Liquid-Water-Flow/">liquid rocket engines </a> 🚀, <a href="/computer-science/cubesat-detumbling-algorithm/">CubeSatellites</a> 🛰️, and much more. Please feel free to check out some of my <a href="/computer-science/">projects</a>, read more about what I am interested in, and get in touch!</p>
+<p>I’m currently a Master's student in the Stanford's Aeronautical and Astronautical Engineering Department, following my graduation from Yale University in 2025. I love to take on hard problems, work with others, and create awesome projects. I am specifically pursuing work as a Guidance, Navigation, and Controls engineer in the space industry, and in recent years, I have worked on orbital rockets, lunar surface systems, satellite controls, and bipropellant rocket engines. Outside of the space industry, I also have technical interests in robotics, machine learning, green energy, and more, and I love to explore the outdoors in my free time. Please feel free to check out my projects, read more about my experience, and get in touch anytime!
 
     <?php // Email goes in here. ?>
 
-    <h4 class="text-center"><strong>henry.demarest@yale.edu</strong></h4>
+    <h4 class="text-center"><strong>henrydemarest3@gmail.com</strong></h4>
     
         </div>
             <div class="col-lg-6 text-center"> 
